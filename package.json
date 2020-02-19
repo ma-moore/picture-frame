@@ -1,0 +1,17 @@
+{
+  "name": "picture-frame",
+  "version": "0.1.0",
+  "description": "picture-frame",
+  "license": "UNLICENSED",
+  "author": {
+    "name": "william.moore"
+  },
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node ./src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "private": true
+}
